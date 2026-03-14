@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lucks222
-- 👀 I’m interested in programming and cyber security.
-- 🌱 I’m currently learning programming 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a Frontend web developer.
+- 🌱 I’m currently back end. 
+- 💞️ I’m looking for work and also want to collaborate on ...
 - 📫 How to reach me email
 
 <!---
