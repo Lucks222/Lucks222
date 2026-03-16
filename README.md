@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lucks222
 - 👀 I’m a Frontend web developer.
-- 🌱 I’m currently back end. 
+- 🌱 I’m currently learning back end. 
 - 💞️ I’m looking for work and also want to collaborate on ...
 - 📫 How to reach me email
 
